@@ -1,4 +1,4 @@
-//Convert a Binary Number into a Decimal Number
+//Convert a Binary Number into a Decimal Number [Without using Integer.parseInt(String s,int radix)]
 class BinToDec
 {
     public void accept(int i)
