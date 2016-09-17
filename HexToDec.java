@@ -1,4 +1,4 @@
-//Convert Hexadecimal value into a Decimal Value
+//Convert Hexadecimal value into a Decimal Value [Without using Integer.parseInt(String s,int radix)]
 class HexToDec
 {
     public void accept(String str)
