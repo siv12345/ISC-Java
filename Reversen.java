@@ -1,3 +1,4 @@
+ //Reverse each word of a sentence
  public class Reversen {
 
 	public static void main(String[] args) {
@@ -9,7 +10,6 @@
 				if(str.charAt(i)!=' '&&str.charAt(i)!=','&&str.charAt(i)!='.'&&str.charAt(i)!='?')
 				{
 					str1=str.charAt(i)+str1;
-					//continue;
 						}
 				else
 				{
