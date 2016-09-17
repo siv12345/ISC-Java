@@ -11,7 +11,7 @@ class converter
         String[] suffixes={"crore","","lakh","","thousand","hundred","",""};
         String[] ties={"","","twenty","thirty","fourty","fifty","sixty","seventy","eighty","ninety"};
         for(int n=0;n<=1000000;n++){
-        String str=Integer.toString(n);       
+        String str=Integer.toString(n);
         while(str.length()!=8)
         str='0'+str;
         char[] a=str.toCharArray();
@@ -28,7 +28,7 @@ class converter
               {
               if(b==1)
               System.out.print(tens[Character.getNumericValue(a[i+1])]+suffixes[i+1]);
-              else 
+              else
               System.out.print(ties[b]+one[Character.getNumericValue(a[i+1])]+suffixes[i+1]);
               i++;
               }
@@ -36,7 +36,5 @@ class converter
         }
         System.out.println();
     }
-}          
 }
-
-       
+}

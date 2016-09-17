@@ -9,4 +9,3 @@ sum += r;
 j = j/10;}
 if(sum==1||sum==10)
 System.out.println(i+" is a Magic Number");}}}
-        

@@ -1,10 +1,4 @@
 import java.util.*;
-/**
- * Write a description of class Subtract here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Subtract
 {
     public void main()
