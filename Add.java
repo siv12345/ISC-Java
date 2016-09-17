@@ -1,10 +1,5 @@
+//Add the elements of two 3x3 matrices
 import java.util.*;
-/**
- * Write a description of class Add here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Add
 {
     public void main()
