@@ -1,0 +1,17 @@
+public class imei
+{
+    public void main(String s )
+    {
+        String x ="";
+        for (int i = 0; i < s.length(); i ++)
+        {   if (i %2 == 0){x += s.charAt(i);}
+            else {x += Integer.parseInt(s.substring(i, i + 1))*2;} }
+             int sum = 0;
+            for(int i = 0 ; i < x.length(); i ++)
+                sum += Integer.parseInt(x.substring(i , i + 1));
+            if (s.length()==15 && sum %10 == 0)
+                System.out.println("Valid IMEI");
+            else
+                System.out.println("Invalid IMEI");
+    }
+}
