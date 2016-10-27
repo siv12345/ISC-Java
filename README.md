@@ -26,3 +26,4 @@ List of programs done in 11th standard
 19. Wondrous square
 20. SMITH number
 21. LUCKY number
+22. Second largest number in a matrix
