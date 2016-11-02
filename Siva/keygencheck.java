@@ -1,6 +1,4 @@
-/*
- * Code validity checker
- */
+//Code validity checker
 class keygencheck
 {
     public void main(int n, String s)
