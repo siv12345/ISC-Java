@@ -16,9 +16,9 @@ List of programs done in 11th standard
 12. Binary Search
 13. Number to words
 14. i  Palindromic words in a sentence
-14. ii  Arrange the words in a sentence in alphabetical order
-14. iii  Display the words starting with a vowel
-14. iv  Display the count of Palindromic words in a sentence
+    ii  Arrange the words in a sentence in alphabetical order
+    iii  Display the words starting with a vowel
+    iv  Display the count of Palindromic words in a sentence
 15. Time in numbers
 16. Decryption
 17. Date to format
