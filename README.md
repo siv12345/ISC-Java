@@ -29,4 +29,6 @@ List of programs done in 11th standard
 22. Second largest number in a matrix
 23. Christmas tree
 24. Check the validity of a code
-28. Anagram program
+25. Anagram program
+26. Circular Matrix
+27. Caprikar Number
