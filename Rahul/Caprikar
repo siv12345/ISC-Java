@@ -1,0 +1,9 @@
+class Caprikar
+{
+    public void main(int p,int q)
+    {     
+        for(int n=p;n<=q;n++)                    
+            if(n==Integer.parseInt(Integer.toString(n*n).substring(Integer.toString(n*n).length()-Integer.toString(n).length()))+Integer.parseInt(Integer.toString(n*n).substring(0,Integer.toString(n*n).length()-Integer.toString(n).length())))
+            System.out.println(n+ "\t i'D LIKE TO GIVE CREDITS TO CHETHAN17");        
+    }
+}
