@@ -1,27 +1,16 @@
 class p02
 {
-    public static void main(String args[])
+    void input(String S,String S1)
     {
-        int a[]={1,2,3,4,5,6};
-        int i,l,j,temp;
-        l=a.length;
-        
-       
-        for(i=0;i<l;i++)
-        {
-            for(j=0;j<l-1;j++)
-            {
-                if(a[j]>a[j+1])
-                {
-                    temp=a[j];
-                    a[j]=a[j+1];
-                    a[j+1]=temp;
+        int n=S.length(),m=S1.length(),i,j;
+        for(i=0;i<n;i++)
+        {   for(j=0;j<m;j++)
+            {   if(S.charAt(i)==S1.charAt(j))
+                { S=S.replace(S1.charAt(j),' ');
+                  S1=S1.replace(S1.charAt(j),' ');
                 }
             }
         }
-        for(i=0;i<l;i++)
-        {
-            System.out.println(a[i]);
-        }
-    }
+        System.out.println("First word=  " +S.replace(" ","")+" Second word=  "+S1.replace(" ",""));
+   }
 }
