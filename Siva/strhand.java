@@ -12,9 +12,7 @@ class strhand
         String str [] = new String [c];
         while(sn.hasNext())
         {
-            int freq = 0; 
-            Scanner sn1 = new Scanner(input).useDelimiter(" ");
-            String s = sn.next();
+            String s = sn.next(); 
             str[index] = s;
             if (s.equals(new StringBuffer(s).reverse().toString()))
                 System.out.println(s);
@@ -23,26 +21,31 @@ class strhand
                 longestword = s.length();
                 lw = s; 
             }
-            while (sn1.hasNext())
-            {   String s1 = sn1.next();
-                if (s.equals(s1))
-                    freq++;
-            }
-            if (freq > 1)
-                System.out.println("The frequency of " + s + " is " + freq);
-            sn1.close();
             index++;
         }
         for (int i = 0; i < c; i ++)
             for (int j = 0; j < c-1; j++)
                 if (str[j].compareTo(str[j+1]) > 0)
-                {
+                { 
                     String temp = str[j];
                     str[j] = str[j+1];
                     str[j+1] = temp;
-                }                    
+                } 
         for (int i = 0; i < c; i++)
             System.out.print(str[i] + " ");
+        System.out.println();
+        for (int i = 0; i < str.length; i ++)
+        {   int freq =0;
+            for (int j = 0; j < str.length; j++)
+                if(j!=i)
+                    if (i!=j && str[i].equals(str[j]))
+                    {
+                        freq++;
+                        str[j] =""+Math.random();
+                    }
+            if(freq > 0)
+                System.out.println(str[i] + " Frequency - " + (freq+1));
+        }
         System.out.println("\nLongest word is " + lw);
     }       
 }
