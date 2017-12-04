@@ -1,67 +1,67 @@
-## STRING HANDLING
+## String Handling
 
-  Encrytion-decryption related to shifting
-  Palindromic word
-  Number to words
-  Frequency of word in a String
-  Finding day from date (model ppr)
-  ASCII code to sentence
-  Counting vowel and consonants in a sentence
-  Arrange each word in sentence in alphabetical order
+  1. Encrytion-decryption related to shifting
+  2. Palindromic word
+  3. Number to words
+  4. Frequency of word in a String
+  5. Finding day from date (model ppr)
+  6. ASCII code to sentence
+  7. Counting vowel and consonants in a sentence
+  7. Arrange each word in sentence in alphabetical order
 
-## ARRAY
+## Array
 
-  Circular matrix
-  Sorting boundary elements
-  Wondrous square
-  90 rotation
-  Checking symmetric matrix or not
-  Saddle point
+  1. Circular matrix
+  2. Sorting boundary elements
+  3. Wondrous square
+  3. 90 rotation
+  4. Checking symmetric matrix or not
+  5. Saddle point
 
-## NUMBER RELATED
+## Number Related
 
-  Smith no
-  Lucky no
-  Kaprekar no
-  Happy no
-  Unique digit no
-  Circular prime
-  Psuedo arithmetic
-  Conversion from one number system to another
+  1. Smith no
+  2. Lucky no
+  3. Kaprekar no
+  4. Happy no
+  5. Unique digit no
+  6. Circular prime
+  7. Psuedo arithmetic
+  8. Conversion from one number system to another
 
-## ONE DIMENSIONAL ARRAY
+## One Dimensional 
 
-  Merging of two arrays
-  Insertion sort
-  Deletion of array
-  Assertion in array
+  1. Merging of two arrays
+  2. Insertion sort
+  3. Deletion of array
+  4. Assertion in array
 
-## RECURSION
+## Recursion
 
-  Binary search
-  Fibonacci
-  HCF,LCM
-  Extracting each digit
-  Exponential(power)
-  Reversing a string
+  1. Binary search
+  2. Fibonacci
+  3. HCF,LCM
+  4. Extracting each digit
+  5. Exponential(power)
+  6. Reversing a string
 
-## CLASS AS PARAMETER
+## Class as Parameter
 
-  Distance based
-  Time related
+  1. Distance based
+  2. Time related
 
-## CLASS AS RETURN DATA TYPE
+## Class as return data type
 
-## DATA STRUCTURE
+## Data structure
 
-  Stack
-  Circular Queue
-  Linked list as stack
-  Linked list as queue
-  Insertion of node in any position
-  Deletion of node in any position
+  1. Stack
+  2. Circular Queue
+  3. Linked list as stack
+  4. Linked list as queue
+  5. Insertion of node in any position
+  6. Deletion of node in any position
 
-## BINARY FILE CREATION
+## Binary File Creation
 
-  Storing data in a binary file(employee no,name,salary)
-  Accessing a binary file
+  1. Storing data in a binary file(employee no,name,salary)
+  2. Accessing a binary file
