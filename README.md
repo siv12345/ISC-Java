@@ -1,6 +1,7 @@
-### List of Programs
-  This repository contains a list of all the programs that need to be completed for the ISC 2018 project
-## String Handling
+# ISC Java GitHub Repository
+  All programs done by us are organized here, by person. All of these will be used for the Computer Application project
+## List of Programs for ISC
+#### String Handling
 
   1. Encrytion-decryption related to shifting
   2. Palindromic word
@@ -11,7 +12,7 @@
   7. Counting vowel and consonants in a sentence
   7. Arrange each word in sentence in alphabetical order
 
-## Array
+#### Array
 
   1. Circular matrix
   2. Sorting boundary elements
@@ -20,7 +21,7 @@
   4. Checking symmetric matrix or not
   5. Saddle point
 
-## Number Related
+#### Number Related
 
   1. Smith no
   2. Lucky no
@@ -31,14 +32,14 @@
   7. Psuedo arithmetic
   8. Conversion from one number system to another
 
-## One Dimensional 
+#### One Dimensional 
 
   1. Merging of two arrays
   2. Insertion sort
   3. Deletion of array
   4. Assertion in array
 
-## Recursion
+#### Recursion
 
   1. Binary search
   2. Fibonacci
@@ -47,14 +48,14 @@
   5. Exponential(power)
   6. Reversing a string
 
-## Class as Parameter
+#### Class as Parameter
 
   1. Distance based
   2. Time related
 
-# Class as return data type
+### Class as return data type
 
-## Data structure
+#### Data structure
 
   1. Stack
   2. Circular Queue
@@ -63,7 +64,11 @@
   5. Insertion of node in any position
   6. Deletion of node in any position
 
-## Binary File Creation
+#### Binary File Creation
 
   1. Storing data in a binary file(employee no,name,salary)
   2. Accessing a binary file
+
+# Checklist for the computer project
+ [ ] Complete all the programs 
+ [ ] Make sure you have different variable names
