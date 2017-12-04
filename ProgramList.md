@@ -1,4 +1,4 @@
-STRING HANDLING
+## STRING HANDLING
 
   Encrytion-decryption related to shifting
   Palindromic word
@@ -9,7 +9,7 @@ STRING HANDLING
   Counting vowel and consonants in a sentence
   Arrange each word in sentence in alphabetical order
 
-ARRAY
+## ARRAY
 
   Circular matrix
   Sorting boundary elements
@@ -18,7 +18,7 @@ ARRAY
   Checking symmetric matrix or not
   Saddle point
 
-NUMBER RELATED
+## NUMBER RELATED
 
   Smith no
   Lucky no
@@ -29,14 +29,14 @@ NUMBER RELATED
   Psuedo arithmetic
   Conversion from one number system to another
 
-ONE DIMENSIONAL ARRAY
+## ONE DIMENSIONAL ARRAY
 
   Merging of two arrays
   Insertion sort
   Deletion of array
   Assertion in array
 
-RECURSION
+## RECURSION
 
   Binary search
   Fibonacci
@@ -45,14 +45,14 @@ RECURSION
   Exponential(power)
   Reversing a string
 
-CLASS AS PARAMETER
+## CLASS AS PARAMETER
 
   Distance based
   Time related
 
-CLASS AS RETURN DATA TYPE
+## CLASS AS RETURN DATA TYPE
 
-DATA STRUCTURE
+## DATA STRUCTURE
 
   Stack
   Circular Queue
@@ -61,7 +61,7 @@ DATA STRUCTURE
   Insertion of node in any position
   Deletion of node in any position
 
-BINARY FILE CREATION
+## BINARY FILE CREATION
 
   Storing data in a binary file(employee no,name,salary)
   Accessing a binary file
