@@ -70,5 +70,5 @@
   2. Accessing a binary file
 
 # Checklist for the computer project
- [ ] Complete all the programs 
- [ ] Make sure you have different variable names
+ - [ ] Complete all the programs 
+ - [ ] Make sure you have different variable names
