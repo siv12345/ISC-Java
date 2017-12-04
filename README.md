@@ -1,3 +1,5 @@
+### List of Programs
+  This repository contains a list of all the programs that need to be completed for the ISC 2018 project
 ## String Handling
 
   1. Encrytion-decryption related to shifting
@@ -50,7 +52,7 @@
   1. Distance based
   2. Time related
 
-## Class as return data type
+# Class as return data type
 
 ## Data structure
 
